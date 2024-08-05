@@ -426,6 +426,21 @@ main {
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
+.download-resume-btn {
+  color: #FFDB6E; 
+  background: var(--onyx);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-300);
+  width: max-content;
+  padding: 5px 16px;
+  margin-top: 30px;
+  border-radius: 8px;
+  margin: 10px auto 0 auto; 
+  display: block; 
+  text-align: center; 
+  text-decoration: none; 
+}
+
 
 
 
